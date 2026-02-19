@@ -1,0 +1,5 @@
+pie= "ApplePie"
+print(pie[ :5])  # Slicing the string to get "Apple"
+print(pie[5:])  # Slicing the string to get "Pie"
+print(pie[2:6])  # Slicing the string to get "pleP"
+print(pie[-8 :])  # Accessing the character at index -8, which is "A"
