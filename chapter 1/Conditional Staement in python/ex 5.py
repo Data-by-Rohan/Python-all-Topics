@@ -13,3 +13,5 @@ if age >=18 and age <=60:
         print("Loan rejected due to low income")
 else:
     print("Loan rejected due to age restrictions")
+
+
